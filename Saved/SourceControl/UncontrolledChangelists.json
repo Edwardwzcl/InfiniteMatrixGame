@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Health_Bar.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/healthBarFill.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/heathBarEmpty.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/ScoreUI.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/LightGreen.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/LightGrey.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Pickup_Health.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Enemy_Flying_Sphere_001.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/bullet.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/strip.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Bullet_Shell.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/bullet_PhysicsAsset.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/Textures/HurtEffect.uasset",
+				"C:/Users/wzcl2/Desktop/CS415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HurtScreen.uasset"
+			]
+		}
+	]
+}
